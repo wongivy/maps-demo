@@ -8,3 +8,7 @@ body {
 #map {
     height: 600px;
 }
+
+#locating-message img {
+    vertical-align: middle;
+}
