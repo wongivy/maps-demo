@@ -1,7 +1,4 @@
-/*
-  app.js
-  our application code
-*/
+/* app.js -- our application code */
 
 "use strict";
 
